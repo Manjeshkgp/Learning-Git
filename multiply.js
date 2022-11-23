@@ -7,3 +7,5 @@ async function fetchProducts(){
 fetchProducts().then((products)=>{
     console.log(products);
 })
+
+// Its not a multiplication file it is used for learning git and revise some concepts of async-await
